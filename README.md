@@ -1,6 +1,6 @@
 ## Selamat Datang di Aplikasi Pocket AI 👋
 
-<!--
+
 Aplikasi ini berfungsi untuk mencari informasi berdasarkan text dan image yang di dukung oleh Gemini AI
 **taufikhidayat-312310813/taufikhidayat-312310813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
